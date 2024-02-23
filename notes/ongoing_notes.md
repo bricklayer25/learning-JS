@@ -7,3 +7,9 @@
                 1
                 + 2); can work but this is crap coding practice
 
+- variable definition:
+     - var, let, const all viable but let and const are more commonly used, var is considered old school
+     - let for defining any ordinary variable
+     - const for defining variables that you would like to keep constant
+     
+
