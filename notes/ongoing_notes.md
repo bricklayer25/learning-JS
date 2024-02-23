@@ -12,4 +12,4 @@
      - let for defining any ordinary variable
      - const for defining variables that you would like to keep constant
      
-
+- use upper case for constant variables that are hard-coded, or for which the value is known prior to execution and is written directly into the code
